@@ -3,11 +3,11 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace HolaWeb.App.Frontend.Pages;
 
-public class ServicesModel : PageModel
+public class RegistrosModel : PageModel
 {
-    private readonly ILogger<ServicesModel> _logger;
+    private readonly ILogger<RegistrosModel> _logger;
 
-    public ServicesModel(ILogger<ServicesModel> logger)
+    public RegistrosModel(ILogger<RegistrosModel> logger)
     {
         _logger = logger;
     }
@@ -16,3 +16,4 @@ public class ServicesModel : PageModel
     {
     }
 }
+

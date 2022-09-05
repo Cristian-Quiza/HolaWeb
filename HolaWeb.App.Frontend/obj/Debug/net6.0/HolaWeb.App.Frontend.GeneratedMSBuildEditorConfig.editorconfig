@@ -15,10 +15,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\ProyectosSoftware\MinTic\Programacion\Ciclo3\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/ProyectosSoftware/MinTic/Programacion/Ciclo3/HolaWeb/HolaWeb.App/HolaWeb.App.Frontend/Pages/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/ProyectosSoftware/MinTic/Programacion/Ciclo3/HolaWeb/HolaWeb.App/HolaWeb.App.Frontend/Pages/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -31,8 +27,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/ProyectosSoftware/MinTic/Programacion/Ciclo3/HolaWeb/HolaWeb.App/HolaWeb.App.Frontend/Pages/Services.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXMuY3NodG1s
+[C:/ProyectosSoftware/MinTic/Programacion/Ciclo3/HolaWeb/HolaWeb.App/HolaWeb.App.Frontend/Pages/Registros.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/ProyectosSoftware/MinTic/Programacion/Ciclo3/HolaWeb/HolaWeb.App/HolaWeb.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
