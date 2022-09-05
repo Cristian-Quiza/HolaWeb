@@ -16313,11 +16313,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\ProyectosSoftware\\MinTic\\Programacion\\Ciclo3\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\Pages\\About.cshtml",
-      "TargetPath": "Pages\\About.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\ProyectosSoftware\\MinTic\\Programacion\\Ciclo3\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -16333,8 +16328,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\ProyectosSoftware\\MinTic\\Programacion\\Ciclo3\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\Pages\\Services.cshtml",
-      "TargetPath": "Pages\\Services.cshtml",
+      "FilePath": "c:\\ProyectosSoftware\\MinTic\\Programacion\\Ciclo3\\HolaWeb\\HolaWeb.App\\HolaWeb.App.Frontend\\Pages\\Registros.cshtml",
+      "TargetPath": "Pages\\Registros.cshtml",
       "FileKind": "mvc"
     },
     {
